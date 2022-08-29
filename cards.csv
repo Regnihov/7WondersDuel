@@ -1,0 +1,25 @@
+cardLvl; cardName; cardColor; coinCost; clayCost; stoneCost; woodCost; glassCost; paperCost; alternateCost; points;(resourceType/amountOfDamage);(resourceAmount);
+
+1;LUMBER YARD;BROWN;0;0;0;0;0;0;false;0;WOOD;1;
+1;LOGGING CAMP;BROWN;1;0;0;0;0;0;false;0;WOOD;1;
+1;CLAY POOL;BROWN;0;0;0;0;0;0;false;0;CLAY;1;
+1;CLAY PIT;BROWN;1;0;0;0;0;0;false;0;CLAY;1;
+1;QUARRY;BROWN;0;0;0;0;0;0;false;0;STONE;1;
+1;STONE PIT;BROWN;1;0;0;0;0;0;false;0;STONE;1;
+1;GLASSWORKS;GRAY;1;0;0;0;0;0;false;0;GLASS;1;
+1;PRESS;GRAY;1;0;0;0;0;0;false;0;PAPYRUS;1;
+1;GUARD TOWER;RED;0;0;0;0;0;0;false;0;1;
+1;WORKSHOP;GREEN;0;0;0;0;0;1;false;1;
+1;APOTHECARY;GREEN;0;0;0;0;1;0;false;1;
+1;STONE RESERVE;YELLOW;3;0;0;0;0;0;false;0;
+1;CLAY RESERVE;YELLOW;3;0;0;0;0;0;false;0;
+1;WOOD RESERVE;YELLOW;3;0;0;0;0;0;false;0;
+1;STABLE;RED;0;0;0;1;0;0;true;0;1;
+1;GARRISON;RED;0;1;0;0;0;0;true;0;1;
+1;PALISADE;RED;2;0;0;0;0;0;true;0;1;
+1;SCRIPTORIUM;GREEN;2;0;0;0;0;0;true;0;
+1;PHARMACIST;GREEN;2;0;0;0;0;0;true;0;
+1;THEATER;BLUE;0;0;0;0;0;0;true;3;
+1;ALTAR;BLUE;0;0;0;0;0;0;true;3;
+1;BATHS;BLUE;0;0;3;0;0;0;true;3;
+1;TAVERN;YELLOW;0;0;0;0;0;0;true;0;
